@@ -1,0 +1,3 @@
+Ruta de los videos:
+
+/home/Cohorte5/Vídeos/Grabaciones de la pantalla/videos de prueba
