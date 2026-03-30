@@ -3,7 +3,7 @@ from files import *
 from services import *
 
 #Definition of the database path
-route = 'temporary/db.csv'
+route = 'db.csv'
 
 #Main loop
 opcion = 1
